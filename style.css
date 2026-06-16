@@ -521,7 +521,6 @@ footer {
 
 .map-icon{
     width:45px;
-    height:45px;
     display:flex;
     align-items:center;
     justify-content:center;
@@ -531,6 +530,7 @@ footer {
     text-decoration:none;
     font-size:18px;
     transition:.3s;
+    margin-left: 50%;
 }
 
 .map-icon:hover{
