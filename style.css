@@ -341,14 +341,12 @@ footer {
     justify-content:center;
     width:45px;
     height:45px;
-    margin-top:15px;
     background:#ffcc00;
     color:#000;
     border-radius:50%;
     text-decoration:none;
     font-size:20px;
     transition:.3s;
-    margin-left: 50%;
 }
 
 .map-icon:hover{
@@ -529,7 +527,6 @@ footer {
     text-decoration:none;
     font-size:18px;
     transition:.3s;
-    margin-left: 50%;
 }
 
 .map-icon:hover{
