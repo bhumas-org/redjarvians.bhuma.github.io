@@ -65,15 +65,15 @@ nav a {
 }
 
 .slide:nth-child(1) {
-    background: linear-gradient(rgba(0, 0, 0, .45), rgba(0, 0, 0, .45)), url('https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?auto=format&fit=crop&w=1600&q=80') center/cover
+    background: linear-gradient(rgba(0, 0, 0, .45), rgba(0, 0, 0, .45)), url('images/hero1.jpeg') center/cover
 }
 
 .slide:nth-child(2) {
-    background: linear-gradient(rgba(0, 0, 0, .45), rgba(0, 0, 0, .45)), url('https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1600&q=80') center/cover
+    background: linear-gradient(rgba(0, 0, 0, .45), rgba(0, 0, 0, .45)), url('images/hero2.jpeg') center/cover
 }
 
 .slide:nth-child(3) {
-    background: linear-gradient(rgba(0, 0, 0, .45), rgba(0, 0, 0, .45)), url('https://images.unsplash.com/photo-1531415074968-036ba1b575da?auto=format&fit=crop&w=1600&q=80') center/cover
+    background: linear-gradient(rgba(0, 0, 0, .45), rgba(0, 0, 0, .45)), url('images/hero3.jpeg') center/cover
 }
 
 .slide.active {
