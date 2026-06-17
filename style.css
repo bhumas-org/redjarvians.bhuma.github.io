@@ -9,7 +9,13 @@ body {
     background: #f6f8fb;
     color: #222
 }
+html {
+    scroll-behavior: smooth;
+}
 
+section {
+    scroll-margin-top: 90px;
+}
 .container {
     width: 92%;
     max-width: 1200px;
