@@ -540,7 +540,7 @@ footer {
 }
 @media(max-width:768px) {
     .hero {
-        height: 35vh;
+        height: 50vh;
     }
 
     .hero-content h1 {
